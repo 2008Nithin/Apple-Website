@@ -1,0 +1,11 @@
+html {
+    background-color: black;
+    font-family: Verdana;
+}
+.heading {
+    color: white;
+}
+
+#sub-heading {
+    color: gray;
+}
