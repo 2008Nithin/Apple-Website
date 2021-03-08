@@ -1,3 +1,13 @@
 html {
     background-color: black;
+    text-align: center;
+}
+#heading {
+    color: white;
+}
+.heading2 {
+    color: white;
+}
+#price {
+    color: gray;
 }
